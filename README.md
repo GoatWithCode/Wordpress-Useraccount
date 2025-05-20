@@ -1,4 +1,5 @@
-🛠 Create WordPress User/Admin via PHP Script
+🛠 Create WordPress User/Admin via PHP Script:
+
 This PHP script creates a WordPress user or administrator account directly in the WordPress database using MySQLi.
 
 ✅ Usage
